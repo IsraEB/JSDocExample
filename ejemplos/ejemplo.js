@@ -7,7 +7,6 @@
 /**
  * @description Número de rondas por partida
  * @type {number}
- * @constant
  */
 const N_RONDAS = 10;
 
